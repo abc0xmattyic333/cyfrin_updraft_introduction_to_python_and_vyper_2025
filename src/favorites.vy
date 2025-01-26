@@ -6,7 +6,7 @@
 # Cyfrin Updraft Introduction to Python and Vyper
 # Vyper Smart Contract Programming Language
 
-# Author: abc0xmattyic333
+# @author abc0xmattyic333
 
 
 # Objective create a favorite things list:
@@ -115,3 +115,6 @@ def add_person(favorite_number: uint256, name: String[100]):
 
 # But whenever a transaction calls 
 # a view function, it costs gas
+
+# Workshop Objectives:
+
